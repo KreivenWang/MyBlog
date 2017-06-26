@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kreiven's Blog
-subtitle:
-description:
+title: 梦想彷如一个接口
+subtitle: 声明了却不知怎样实现
+description: Nothing to lose
 author: Kreiven Mistel
-language: zh
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anodyne
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
