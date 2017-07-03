@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 梦想彷如一个接口
-subtitle: 声明了却不知怎样实现
-description: Nothing to lose
-author: Kreiven Mistel
+title: Frozone
+subtitle: Frozen Zone
+description: Welcome to Frozone ;)
+author: Kreiven
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://mistel.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
