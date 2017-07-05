@@ -8,7 +8,7 @@ description: #你對本頁的描述 可以省略
 ---
 >**说明：**Vue单文件组件的模板，包含template/script/style的基本结构。配合**Eslint**，缩进为2个空格，加入scss。
 
-```
+```html
 <template>
   <div>hello {{x}}</div>
 </template>
